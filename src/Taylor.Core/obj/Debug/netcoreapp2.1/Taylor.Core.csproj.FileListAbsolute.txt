@@ -1,0 +1,17 @@
+D:\SourceCode\Automation\scm.tools\Taylor\src\Taylor.Core\bin\Debug\netcoreapp2.1\Taylor.Core.deps.json
+D:\SourceCode\Automation\scm.tools\Taylor\src\Taylor.Core\bin\Debug\netcoreapp2.1\Taylor.Core.dll
+D:\SourceCode\Automation\scm.tools\Taylor\src\Taylor.Core\obj\Debug\netcoreapp2.1\Taylor.Core.csproj.CoreCompileInputs.cache
+D:\SourceCode\Automation\scm.tools\Taylor\src\Taylor.Core\obj\Debug\netcoreapp2.1\Taylor.Core.AssemblyInfoInputs.cache
+D:\SourceCode\Automation\scm.tools\Taylor\src\Taylor.Core\obj\Debug\netcoreapp2.1\Taylor.Core.AssemblyInfo.cs
+D:\SourceCode\Automation\scm.tools\Taylor\src\Taylor.Core\bin\Debug\netcoreapp2.1\Taylor.Core.pdb
+D:\SourceCode\Automation\scm.tools\Taylor\src\Taylor.Core\obj\Debug\netcoreapp2.1\Taylor.Core.dll
+D:\SourceCode\Automation\scm.tools\Taylor\src\Taylor.Core\obj\Debug\netcoreapp2.1\Taylor.Core.pdb
+D:\SourceCode\Automation\scm.tools\Taylor\src\Taylor.Core\obj\Debug\netcoreapp2.1\Taylor.Core.csprojAssemblyReference.cache
+E:\@TestData\src\Taylor.Core\bin\Debug\netcoreapp2.1\Taylor.Core.deps.json
+E:\@TestData\src\Taylor.Core\bin\Debug\netcoreapp2.1\Taylor.Core.dll
+E:\@TestData\src\Taylor.Core\bin\Debug\netcoreapp2.1\Taylor.Core.pdb
+E:\@TestData\src\Taylor.Core\obj\Debug\netcoreapp2.1\Taylor.Core.csprojAssemblyReference.cache
+E:\@TestData\src\Taylor.Core\obj\Debug\netcoreapp2.1\Taylor.Core.AssemblyInfoInputs.cache
+E:\@TestData\src\Taylor.Core\obj\Debug\netcoreapp2.1\Taylor.Core.AssemblyInfo.cs
+E:\@TestData\src\Taylor.Core\obj\Debug\netcoreapp2.1\Taylor.Core.dll
+E:\@TestData\src\Taylor.Core\obj\Debug\netcoreapp2.1\Taylor.Core.pdb

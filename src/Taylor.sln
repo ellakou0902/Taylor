@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Taylor.Domain", "Taylor.Domain\Taylor.Domain.csproj", "{EF2324F7-0AD6-4DBC-89AC-55276DAF712C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Taylor.Infrastructure", "Taylor.Infrastructure\Taylor.Infrastructure.csproj", "{13E10072-F449-4806-9B5F-7BC2DD97DA0C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Taylor.Core", "Taylor.Core\Taylor.Core.csproj", "{28799327-3368-4131-9BA1-D90848ECCAD9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Taylor.ConsoleApp", "Taylor.ConsoleApp\Taylor.ConsoleApp.csproj", "{D400D621-1B05-4DA9-B940-07507F449924}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Taylor.UnitTest", "Taylor.UnitTest\Taylor.UnitTest.csproj", "{E3C9332B-B772-42D0-BA24-589BB99A07A4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Taylor.WebApis", "Taylor.WebApis\Taylor.WebApis.csproj", "{753D1435-0BD0-4877-8B5A-95AF654A4E2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF2324F7-0AD6-4DBC-89AC-55276DAF712C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF2324F7-0AD6-4DBC-89AC-55276DAF712C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF2324F7-0AD6-4DBC-89AC-55276DAF712C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF2324F7-0AD6-4DBC-89AC-55276DAF712C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13E10072-F449-4806-9B5F-7BC2DD97DA0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13E10072-F449-4806-9B5F-7BC2DD97DA0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13E10072-F449-4806-9B5F-7BC2DD97DA0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13E10072-F449-4806-9B5F-7BC2DD97DA0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28799327-3368-4131-9BA1-D90848ECCAD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28799327-3368-4131-9BA1-D90848ECCAD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28799327-3368-4131-9BA1-D90848ECCAD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28799327-3368-4131-9BA1-D90848ECCAD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D400D621-1B05-4DA9-B940-07507F449924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D400D621-1B05-4DA9-B940-07507F449924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D400D621-1B05-4DA9-B940-07507F449924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D400D621-1B05-4DA9-B940-07507F449924}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3C9332B-B772-42D0-BA24-589BB99A07A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3C9332B-B772-42D0-BA24-589BB99A07A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3C9332B-B772-42D0-BA24-589BB99A07A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3C9332B-B772-42D0-BA24-589BB99A07A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{753D1435-0BD0-4877-8B5A-95AF654A4E2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{753D1435-0BD0-4877-8B5A-95AF654A4E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{753D1435-0BD0-4877-8B5A-95AF654A4E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{753D1435-0BD0-4877-8B5A-95AF654A4E2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91CE180D-0F72-4A5F-BB4F-3AE63CE13308}
+	EndGlobalSection
+EndGlobal
